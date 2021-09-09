@@ -1,0 +1,141 @@
+{
+	"ssp": {
+		"base_download_url": "https://anakage.com/_Repository/src/solutions/",
+		"solution_name_prefix": "techselfsupport",
+		"solution_extension": ".exe",
+		"image_folder": "https://anakage.com/_Repository/src/img/",
+		"category_tile_default_bacground_color": "white",
+		"category_tile_selected_bacground_color": "#45B39C",
+		"categories": [
+			{"cid":"1", "display_name": "Outlook", "fa_icon":"fa fa-envelope-o"},
+			{"cid":"2", "display_name": "Connectivity", "fa_icon":"fa fa-signal"},
+			{"cid":"3", "display_name": "Browser", "fa_icon":"fa fa-internet-explorer"},
+			{"cid":"4", "display_name": "MS Office", "fa_icon":"fa fa-windows"},
+			{"cid":"5", "display_name": "Printer", "fa_icon":"fa fa-print"},
+			{"cid":"6", "display_name": "System", "fa_icon":"fa fa-laptop"},
+			{"cid":"7", "display_name": "Software Install", "fa_icon":"fa fa-cogs"}
+		],
+		"solutions": [
+			{	
+				"category": "outlook",
+				"solution_number": "44",
+				"solution_name": "Outlook not sending or receiving mails",
+				"solution_description":"This solution will help you to reconnect your Outlook so that you are able to send/receive mails."
+			},
+			{	
+				"category": "outlook",
+				"solution_number": "17",
+				"solution_name": "Excel attachments not opening in Outlook",
+				"solution_description":"Solution to correct Outlook not opening attachments."
+			},
+			{	
+				"category": "outlook",
+				"solution_number": "15",
+				"solution_name": "Add a new Outlook Data file (PST)",
+				"solution_description":"This solution helps you to create a new PST file to save space on the mail server."
+			},
+			{	
+				"category": "outlook",
+				"solution_number": "44",
+				"solution_name": "Unable to start Outlook due invalid XML Error",
+				"solution_description":"Unable to start Outlook giving start up error."
+			},
+			{	
+				"category": "outlook",
+				"solution_number": "18",
+				"solution_name": "Outlook error Cannot open default email folder",
+				"solution_description":"This solution helps you to modify a setting in outlook.exe property dialog box."
+			},
+			{	
+				"category": "connectivity",
+				"solution_number": "183",
+				"solution_name": "Removing and Reconfiguring WiFi",
+				"solution_description":"This solution helps when Wi-Fi \"Showing red-cross on the Wi-Fi network adaptor\"."
+			},
+			{	
+				"category": "connectivity",
+				"solution_number": "164",
+				"solution_name": "User Data Card is not working",
+				"solution_description":"This solution helps to enable data card services in user machine when Cata Card is not working."
+			},
+			{	
+				"category": "connectivity",
+				"solution_number": "165",
+				"solution_name": "System not getting IP Address",
+				"solution_description":"This solution helps when LAN is not working."
+			},
+			{
+				"category": "mso",
+				"solution_number": "128",
+				"solution_name": "Getting Error Computer is Low Memory in MS Office",
+				"solution_description":"This solution helps when getting \"Computer is low memory\" while working with MS Office files."
+			},
+			{
+				"category": "mso",
+				"solution_number": "518",
+				"solution_name": "Unable to open MS Excel File",
+				"solution_description":"This solution helps when getting \"Unable to open MS Excel File\" issue. Error the file is corrupted and cannot be opened."
+			},
+			{
+				"category": "mso",
+				"solution_number": "519",
+				"solution_name": "Microsoft Excel has stopped working",
+				"solution_description":"This solution helps when getting \"Microsoft Excel has stopped working\" while opening multiple excel sheet."
+			},
+			{
+				"category": "mso",
+				"solution_number": "95",
+				"solution_name": "Excel Hangs When I Try to Format Any Cell",
+				"solution_description":"This solution helps when excel hangs while formating any cell."
+			},
+			{
+				"category": "mso",
+				"solution_number": "51",
+				"solution_name": "Excel is slow",
+				"solution_description":"This solution helps you to fix the issue when Microsoft Excel is slow in your system."
+			},
+			{
+				"category": "mso",
+				"solution_number": "52",
+				"solution_name": "Word is slow",
+				"solution_description":"This solution helps you to fix the issue when Microsoft Word and not working properly."
+			},
+			{
+				"category": "mso",
+				"solution_number": "691",
+				"solution_name": "Repair MS Office",
+				"solution_description":"This solution helps to repair MS-Office."
+			},
+			{
+				"category": "printer",
+				"solution_number": "134",
+				"solution_name": "Unable to print",
+				"solution_description":"This solution will resolve unable to print issue by restarting the Printer Spooler services if stopped."
+			},
+			{
+				"category": "system",
+				"solution_number": "154",
+				"solution_name": "C Drive is Getting Full automatically",
+				"solution_description":"When C drive space is getting full automatically in Windows OS."
+			},
+			{
+				"category": "system",
+				"solution_number": "148",
+				"solution_name": "Computer is Low Memory",
+				"solution_description":"When getting error Computer is Low Memory while working on MS Office 2013 Edition."
+			},
+			{
+				"category": "system",
+				"solution_number": "617",
+				"solution_name": "System important Settings",
+				"solution_description":"When System Important Settings is not set as recommended."
+			},
+			{
+				"category": "system",
+				"solution_number": "705",
+				"solution_name": "Disable Printer Spooler",
+				"solution_description":"This solution will disable the Printer Spooler Service."
+			}
+		]
+	}
+}
