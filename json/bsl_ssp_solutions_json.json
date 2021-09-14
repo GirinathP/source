@@ -25,7 +25,37 @@
 				"cid": "1",
 				"solution_number": "906",
 				"solution_name": "Edit Environment variables",
-				"solution_description":"This solution will helps you to add, delete, edit user and system environment variables"
+				"solution_description":"This solution will helps you to add, delete, edit user and system environment variables."
+			},
+			{	
+				"cid": "1",
+				"solution_number": "930",
+				"solution_name": "Remote Desktop Connection (RDP) Troubleshooter",
+				"solution_description":"This solution helps to resolve RDP connection issues by checking status of various Remote Desktop Connection parameters."
+			},
+			{	
+				"cid": "1",
+				"solution_number": "937",
+				"solution_name": "Enable/Disable Java Auto-Update",
+				"solution_description":"This solution helps to Enable or Disable Java Auto-Update."
+			},
+			{	
+				"cid": "1",
+				"solution_number": "1100",
+				"solution_name": "Bluetooth Troubleshooter",
+				"solution_description":"This solution helps to run Bluetooth Troubleshooter."
+			},
+			{	
+				"cid": "1",
+				"solution_number": "1101",
+				"solution_name": "Audio Troubleshooter",
+				"solution_description":"This solution helps to run Audio Troubleshooter."
+			},
+			{	
+				"cid": "1",
+				"solution_number": "1102",
+				"solution_name": "Networking Troubleshooter",
+				"solution_description":"This solution helps to run Networking Troubleshooter."
 			},
 			{	
 				"cid": "1",
@@ -34,64 +64,40 @@
 				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
 			},
 			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
+				"cid": "2",
+				"solution_number": "619",
+				"solution_name": "Microsoft Teams calls or Meeting not connecting",
+				"solution_description":"This solution helps to clear Teams temp and saved windows credentials."
 			},
 			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
+				"cid": "2",
+				"solution_number": "624",
+				"solution_name": "Microsoft Teams status shows as Available/Busy/Away even after logout",
+				"solution_description":"This solution helps to clear temporary data of teams and sets the status of Microsoft Teams."
 			},
 			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
+				"cid": "2",
+				"solution_number": "1217",
+				"solution_name": "Enable Microsoft Teams Add-in in Outlook",
+				"solution_description":"This solution helps to enable Microsoft Teams Add-in in Outlook by changing registry key LoadBehavior."
 			},
 			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
+				"cid": "3",
+				"solution_number": "51",
+				"solution_name": "Speed up Excel",
+				"solution_description":"This solution will speed up Excel by adjusting virtual memory, disabling hardware accleration, and removing redundant Add-ins."
 			},
 			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
+				"cid": "3",
+				"solution_number": "503",
+				"solution_name": "Office Quick Repair",
+				"solution_description":"This solution will resolve issues and crashes with Outlook, Excel, Word etc by doing quick repair of Office."
 			},
 			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
-			},
-			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
-			},
-			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
-			},
-			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
-			},
-			{	
-				"cid": "1",
-				"solution_number": "508",
-				"solution_name": "Domain Account is getting locked frequently",
-				"solution_description":"This solution helps to resolve domain account getting locked frequently by clearing saved passwords from Credential Manager."
+				"cid": "3",
+				"solution_number": "519",
+				"solution_name": "Excel random crash issues",
+				"solution_description":"This solution helps to resolve Excel random crash issues by clearing a component(osf.dll) and repairing Office."
 			}
 		]
 	}
