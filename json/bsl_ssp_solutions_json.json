@@ -7,13 +7,12 @@
 		"category_tile_default_background_color": "#e40000",
 		"category_tile_selected_background_color": "#45B39C",
 		"categories": [
-			{"cid":"1", "display_name": "Outlook", "fa_icon":"fa fa-envelope-o"},
-			{"cid":"2", "display_name": "Connectivity", "fa_icon":"fa fa-signal"},
-			{"cid":"3", "display_name": "Browser", "fa_icon":"fa fa-internet-explorer"},
-			{"cid":"4", "display_name": "MS Office", "fa_icon":"fa fa-windows"},
-			{"cid":"5", "display_name": "Printer", "fa_icon":"fa fa-print"},
-			{"cid":"6", "display_name": "System", "fa_icon":"fa fa-laptop"},
-			{"cid":"7", "display_name": "Software Install", "fa_icon":"fa fa-cogs"}
+			{"cid":"1", "display_name": "System", "fa_icon":"fa fa-laptop"},
+			{"cid":"2", "display_name": "Microsoft Teams", "fa_icon":"fa fa-users"},
+			{"cid":"3", "display_name": "MS Office", "fa_icon":"fa fa-windows"},
+			{"cid":"4", "display_name": "Browser", "fa_icon":"fa fa-internet-explorer"},
+			{"cid":"5", "display_name": "Outlook", "fa_icon":"fa fa-envelope-o"},
+			{"cid":"6", "display_name": "Connectivity", "fa_icon":"fa fa-signal"}
 		],
 		"solutions": [
 			{	
