@@ -4,8 +4,8 @@
 		"solution_name_prefix": "techselfsupport",
 		"solution_extension": ".exe",
 		"image_folder": "https://anakage.com/_Repository/src/img/",
-		"category_tile_default_bacground_color": "white",
-		"category_tile_selected_bacground_color": "#45B39C",
+		"category_tile_default_background_color": "#e40000",
+		"category_tile_selected_background_color": "#45B39C",
 		"categories": [
 			{"cid":"1", "display_name": "Outlook", "fa_icon":"fa fa-envelope-o"},
 			{"cid":"2", "display_name": "Connectivity", "fa_icon":"fa fa-signal"},
