@@ -399,9 +399,11 @@
 
 .div-size {
 	/* 	max-height: 273px; */
-	min-height: 273px;
+	/* min-height: 273px; */
 	/* max-width: 260px; */
-	min-width: 260px;
+	/* min-width: 260px; */
+	min-height: 150px;
+	min-width: 100px;
 }
 
 .search-bar-category {
